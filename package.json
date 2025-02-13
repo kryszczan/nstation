@@ -6,6 +6,6 @@
     "start": "nodestation start"
   },
   "dependencies": {
-    "nodestation": "^1.8.0"
+    "nodestation": "^1.9.1"
   }
 }
